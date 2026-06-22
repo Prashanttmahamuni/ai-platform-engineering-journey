@@ -5,7 +5,7 @@
 ## 1. Kubernetes Architecture Overview
 
 Before diving into individual components, you need a mental model of what Kubernetes actually is and why it exists, because everything else makes more sense with that foundation.
-      
+         
 Imagine you're running a large restaurant chain with hundreds of locations. Each location needs staff, supplies, and coordination. You could manage each location manually — calling each one, making sure they have what they need, replacing staff who don't show up. But that doesn't scale. You'd hire a regional management system that automatically ensures each location is staffed, restocked, and operating correctly — and if something goes wrong at one location, the system responds without you having to intervene personally.
 
 Kubernetes is that regional management system, but for containerized applications. You have applications packaged as containers, and you need to run them reliably across many machines, scale them based on demand, replace them when they crash, and update them without downtime. Kubernetes automates all of this.
