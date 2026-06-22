@@ -487,7 +487,7 @@ Upon completion of this 30-day intensive program, you will have:
 - Basic knowledge of Linux/Unix systems
 - Enthusiasm for learning cutting-edge DevOps and AI infrastructure technologies
 
----
+--- 
 
 ## 🛠️ **Recommended Toolchain**
 
