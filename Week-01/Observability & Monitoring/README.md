@@ -3,7 +3,7 @@
 ---
 
 ## 1. Observability Principles
-
+        
 Before anything else, let's separate two concepts that are often conflated: monitoring and observability. They're related but fundamentally different in philosophy, and understanding the difference shapes how you build systems.
 
 **Monitoring** is the practice of collecting predefined metrics and checking them against predefined thresholds. You know in advance what might go wrong, you instrument for it, and you alert when it happens. CPU above 90%? Alert. Error rate above 1%? Alert. Disk full? Alert. Monitoring answers questions you thought to ask before the incident.
