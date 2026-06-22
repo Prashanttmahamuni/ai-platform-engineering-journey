@@ -547,4 +547,3 @@ Stay connected and explore more DevOps content with me:
 
 Want to stay up to date with the latest DevOps trends, best practices, and project updates? Follow me on my blogs and social channels!
 
-![Follow Me](https://imgur.com/2j7GSPs.png)
