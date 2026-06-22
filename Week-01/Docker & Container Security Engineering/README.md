@@ -3,7 +3,7 @@
 ---
 
 ## 1. Containerization Fundamentals
-      
+           
 Before containers existed, deploying software was genuinely painful in ways that are hard to appreciate if you haven't lived through it. You'd write an application on your laptop, running Python 3.9 with specific library versions on macOS. The staging server runs Python 3.7 on Ubuntu. Production runs Python 3.8 on CentOS. Each environment has different library versions installed, different system dependencies, different file paths, different environment variables. Your application works perfectly on your laptop and mysteriously breaks in production. The phrase "it works on my machine" became a running joke in the industry because it was so universally true and so universally frustrating.
 
 Virtual machines were the first attempt at solving this. You package the entire operating system along with your application into a VM image. Now you have consistency — the VM is the same everywhere. But VMs are heavy. They include a full OS kernel, gigabytes of operating system files, and take minutes to start. Running 50 services means running 50 full VMs, each with its own OS consuming gigabytes of RAM just for the operating system overhead. This is expensive and slow.
