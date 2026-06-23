@@ -7,7 +7,7 @@
 Let's start from the very beginning. Before cloud existed, if a company wanted to run software, they had to physically buy servers, put them in a room, hire people to maintain them, and pray nothing breaks. If traffic suddenly doubled, you were out of luck — you didn't have extra hardware sitting around.
 
 Cloud changed all of that. Companies like AWS, Google Cloud, and Azure built massive data centers with millions of servers, and they rent that computing power to you on demand. You pay for what you use, scale up when you need more, scale down when you don't.
-
+ 
 "Cloud-native" means your AI system is designed from day one to take advantage of this. It's not an old system that someone awkwardly moved to the cloud — it's built specifically to run there. What does that look like in practice?
 
 Your model training runs on cloud GPUs that you spin up, use for a few hours, and then shut down. Your prediction service automatically gets more replicas when traffic increases. Your data is stored in cloud object storage like S3 or GCS. If one server crashes, your system automatically moves to another one without users noticing anything.
