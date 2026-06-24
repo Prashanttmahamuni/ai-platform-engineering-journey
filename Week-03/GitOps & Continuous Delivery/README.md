@@ -1,6 +1,6 @@
 # GitOps & Continuous Delivery
 
----
+---  
 
 ## 1. GitOps Principles
 
