@@ -1,6 +1,6 @@
 # Data Validation, LLM Ops & Monitoring
 
----   
+---    
 
 ## 1. Data Quality Validation Concepts
 
