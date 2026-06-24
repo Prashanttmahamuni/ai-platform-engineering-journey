@@ -5,7 +5,7 @@
 ## 1. Data Quality Validation Concepts
 
 Let's start with the most important insight about data quality in machine learning: bad data is the silent killer of ML systems. Unlike application bugs that crash loudly and obviously, bad data produces models that fail quietly. The model keeps running, keeps returning predictions, and nobody realizes anything is wrong until the damage is done — wrong loan approvals, missed fraud, bad recommendations, or incorrect medical predictions that affected real patients.
-
+ 
 Data quality validation is the discipline of systematically checking your data for problems before those problems corrupt your models or mislead your decisions. It's the equivalent of a factory's quality control department — inspecting incoming raw materials before they go into the production process.
 
 The challenge is that data quality problems come in many forms, each subtle in its own way.
