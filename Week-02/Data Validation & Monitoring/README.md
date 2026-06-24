@@ -1,6 +1,6 @@
 # Data Validation, LLM Ops & Monitoring
 
---- 
+---  
 
 ## 1. Data Quality Validation Concepts
 
@@ -9,7 +9,6 @@ Let's start with the most important insight about data quality in machine learni
 Data quality validation is the discipline of systematically checking your data for problems before those problems corrupt your models or mislead your decisions. It's the equivalent of a factory's quality control department — inspecting incoming raw materials before they go into the production process.
 
 The challenge is that data quality problems come in many forms, each subtle in its own way.
-
 **Completeness problems** are missing values. Your training data might have 5% of transaction amounts missing. That sounds small, but if those missing values aren't random — if they're systematically missing for a specific type of transaction — then your model learns a biased picture of reality. Completeness validation checks what percentage of values are present for each field and raises alerts when that percentage drops below acceptable thresholds.
 
 **Accuracy problems** are values that exist but are wrong. A transaction amount of negative $50,000 might be technically present but is almost certainly an error. An age field containing 250 is present but impossible. Accuracy validation checks whether values fall within plausible ranges and match expected patterns — phone numbers should look like phone numbers, email addresses should have the @ symbol, ages should be between 0 and 150.
