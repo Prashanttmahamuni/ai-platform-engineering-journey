@@ -1,6 +1,6 @@
 # End-to-End AI Platform Architecture
 
----
+--- 
 
 ## 1. Cloud-Native AI System Architecture
 
