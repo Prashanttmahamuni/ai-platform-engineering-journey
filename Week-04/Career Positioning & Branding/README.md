@@ -1,7 +1,7 @@
 # Career Positioning & Branding
 
 ---
-
+ 
 ## 1. Resume Structuring for AI Infrastructure Roles
  
 Your resume is not a list of things you did. It is a marketing document whose only job is to get you an interview. Every word on it should serve that purpose. AI infrastructure roles — DevOps, MLOps, Platform Engineering, SRE — have specific expectations, and your resume needs to be structured to match those expectations immediately, because the person reading it is spending 15-30 seconds on first pass.
