@@ -1,7 +1,7 @@
 # Security & Governance
          
 ---                  
-           
+             
 ## 1. DevSecOps Principles
 
 Let's start with how security used to work, because understanding the old way makes the new way make sense.   
