@@ -3,7 +3,7 @@
 ---                              
                       
 ## 1. DevSecOps Principles
-
+            
 Let's start with how security used to work, because understanding the old way makes the new way make sense.   
  
 In traditional software development, security was treated as a phase that happened at the end. Developers would build a feature or an entire product over months, and then right before release, a separate security team would review it, find vulnerabilities, and send it back to be fixed. This was slow, expensive, and adversarial. Developers resented security teams for blocking releases. Security teams resented developers for building insecure systems and throwing them over the wall at the last minute. And because fixing security issues late in development is vastly more expensive than catching them early, this approach produced a lot of insecure software shipped to production.
