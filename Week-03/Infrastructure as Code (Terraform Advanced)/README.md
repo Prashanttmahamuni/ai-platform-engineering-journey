@@ -1,7 +1,7 @@
 # Infrastructure as Code (Terraform Advanced)
 
 ---
-
+        
 ## 1. Infrastructure as Code Principles
 
 Let's start from the very beginning and understand why Infrastructure as Code exists, because once you understand the problem it solves, every other concept in this section makes intuitive sense.
