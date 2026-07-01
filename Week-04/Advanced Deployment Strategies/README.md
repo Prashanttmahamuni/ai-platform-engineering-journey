@@ -3,7 +3,7 @@
 --- 
   
 ## 1. Blue-Green Deployment Strategy 
- 
+      
 Let me start with the problem this solves. You have a model or service running in production serving real users. You've built a new version and want to deploy it. The naive approach: shut down the old version, deploy the new one, hope it works. The problem with this: during the switchover, users get errors. And if the new version has a bug, you've already killed the old one — rolling back means going through the same painful process again.
 
 Blue-Green deployment eliminates this entirely. You maintain two identical production environments — call them Blue and Green. At any given time, one of them is live and the other is idle.
