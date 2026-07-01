@@ -5,7 +5,7 @@
 ## 1. GitOps Principles
   
 To understand GitOps, you first need to understand the problem it solves, because the solution only makes sense in the context of the problem.
-
+  
 Before GitOps, deploying software to Kubernetes was done imperatively. A developer or CI/CD pipeline would run `kubectl apply`, `helm upgrade`, or a series of cloud CLI commands to push changes to a cluster. This worked but created serious operational problems. There was no single record of what was actually deployed — the cluster's state existed only in the cluster itself and in people's heads. Anyone with cluster access could make changes directly, and those changes would leave no trace in version control. If something went wrong, figuring out what changed, when, and who changed it required digging through cluster audit logs that weren't always available or readable. Recreating a cluster after a disaster meant reconstructing dozens of manual steps from memory or incomplete documentation.
 
 GitOps is an operational framework that uses Git repositories as the single source of truth for both infrastructure and application configuration, and uses automated agents to continuously ensure the running system matches what Git says it should look like.
