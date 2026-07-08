@@ -34,7 +34,7 @@ A comprehensive 30-day journey through Advanced DevOps, MLOps, Platform Engineer
 * Semantic Versioning (SemVer)
 * Tagging & Release Management
 * Secure Git Workflows
-
+                    
 ### 🚀 **Advanced CI/CD Engineering**
 
 * CI/CD Architecture & Pipeline Design
