@@ -74,7 +74,7 @@ A comprehensive 30-day journey through Advanced DevOps, MLOps, Platform Engineer
 * Runtime Container Security
 
 ---
-
+                                                            
 ## 🗓 **Day 5–6: Kubernetes Production Concepts**
 
 * Kubernetes Architecture Overview
@@ -95,11 +95,11 @@ A comprehensive 30-day journey through Advanced DevOps, MLOps, Platform Engineer
 * Kubernetes Networking Basics
 * **Policy as Code in Kubernetes (OPA/Gatekeeper Basics)**
 * **Network Policies & Pod Security Standards**
-
----
+                                                            
+---                                                            
 
 ## 🗓 **Day 7: Observability & Monitoring**
-
+                                                  
 * Observability Principles
 * Metrics vs Logs vs Traces
 * Golden Signals
