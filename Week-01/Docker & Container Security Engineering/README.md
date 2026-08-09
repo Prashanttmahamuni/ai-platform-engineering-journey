@@ -2,7 +2,7 @@
     
 ---
 
-## 1. Containerization Fundamentals
+## 1. Containerization Fundamentals                        
                                
 Before containers existed, deploying software was genuinely painful in ways that are hard to appreciate if you haven't lived through it. You'd write an application on your laptop, running Python 3.9 with specific library versions on macOS. The staging server runs Python 3.7 on Ubuntu. Production runs Python 3.8 on CentOS. Each environment has different library versions installed, different system dependencies, different file paths, different environment variables. Your application works perfectly on your laptop and mysteriously breaks in production. The phrase "it works on my machine" became a running joke in the industry because it was so universally true and so universally frustrating.
 
