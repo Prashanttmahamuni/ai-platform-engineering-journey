@@ -2,7 +2,7 @@
 
 ---       
                         
-## 1. GitOps Principles
+## 1. GitOps Principles          
   
 To understand GitOps, you first need to understand the problem it solves, because the solution only makes sense in the context of the problem.
   
