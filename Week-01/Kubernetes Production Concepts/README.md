@@ -1,6 +1,6 @@
 # Kubernetes Production Concepts
 
----
+---                            
 
 ## 1. Kubernetes Architecture Overview
        
