@@ -2,7 +2,7 @@
 
 ---                            
 
-## 1. Kubernetes Architecture Overview
+## 1. Kubernetes Architecture Overview                            
        
 Before diving into individual components, you need a mental model of what Kubernetes actually is and why it exists, because everything else makes more sense with that foundation.
          
