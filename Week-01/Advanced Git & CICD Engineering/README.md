@@ -5,7 +5,7 @@
 ## ADVANCED GIT ENGINEERING
                                           
 ---                                                                       
-                                                 
+                                                                                    
 ## 1. Git Internals & Object Model
 
 Most engineers use Git every day without understanding how it actually works internally. This is fine for basic usage, but when things go wrong — a rebase goes sideways, a reset loses commits, a merge produces unexpected results — understanding Git's internals is the difference between recovering confidently and panicking. More importantly, once you understand the object model, everything Git does makes intuitive sense.
