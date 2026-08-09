@@ -3,7 +3,7 @@
 ---
        
 ## ADVANCED GIT ENGINEERING
-
+                                          
 ---                      
                                                  
 ## 1. Git Internals & Object Model
