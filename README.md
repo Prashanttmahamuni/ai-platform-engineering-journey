@@ -3,7 +3,7 @@
 A comprehensive 30-day journey through Advanced DevOps, MLOps, Platform Engineering, and AI Platform Integration.
 
 ---       
-                                                                                                      
+                                                                                                       
 ## 📋 **Course Overview**                   
                   
 ✅ Week 1 – Advanced DevOps  
