@@ -7,7 +7,7 @@ A comprehensive 30-day journey through Advanced DevOps, MLOps, Platform Engineer
                                       
 ✅ Week 1 – Advanced DevOps            
 ✅ Week 2 – MLOps Engineering   
-✅ Week 3 – Platform Engineering  
+✅ Week 3 – Platform Engineering            
 ✅ Week 4 – AI Platform Integration
             
 ---                                                                                                                    
