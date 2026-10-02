@@ -6,7 +6,7 @@
 Let's start with how security used to work, because understanding the old way makes the new way make sense.   
                            
 In traditional software development, security was treated as a phase that happened at the end. Developers would build a feature or an entire product over months, and then right before release, a separate security team would review it, find vulnerabilities, and send it back to be fixed. This was slow, expensive, and adversarial. Developers resented security teams for blocking releases. Security teams resented developers for building insecure systems and throwing them over the wall at the last minute. And because fixing security issues late in development is vastly more expensive than catching them early, this approach produced a lot of insecure software shipped to production.
-
+      
 DevSecOps is the philosophy that security is not a phase at the end — it is a continuous practice woven into every step of development and operations, from the moment someone writes a line of code to the moment it runs in production.
                 
 The "Sec" in DevSecOps is literally inserted into DevOps, which is intentional. Security becomes everyone's responsibility, not just a dedicated security team's problem. Developers write secure code because they have tools and guardrails that catch insecure patterns as they code. CI/CD pipelines automatically scan for vulnerabilities before anything gets deployed. Infrastructure is configured securely by default. Operations teams monitor for security events in production the same way they monitor for performance problems.
