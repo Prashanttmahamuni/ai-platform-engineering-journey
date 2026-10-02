@@ -15,7 +15,7 @@ A comprehensive 30-day journey through Advanced DevOps, MLOps, Platform Engineer
 ## 🎯 **Focus: Production-Grade DevOps Systems**
 
 ---
-
+          
 ## 🗓 **Day 1–2: Advanced Git & CI/CD Engineering**
 
 ### 📘 **Advanced Git Engineering**
