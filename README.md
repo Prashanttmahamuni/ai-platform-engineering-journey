@@ -19,7 +19,7 @@ A comprehensive 30-day journey through Advanced DevOps, MLOps, Platform Engineer
 ## 🗓 **Day 1–2: Advanced Git & CI/CD Engineering**
 
 ### 📘 **Advanced Git Engineering**
-
+                                        
 * Git Internals & Object Model
 * Branching Strategies (Git Flow, Trunk-Based, GitHub Flow)
 * Rebase vs Merge (Advanced Usage)
