@@ -1,5 +1,5 @@
 # Internal Developer Platform (IDP)
-
+  
 ---
 
 ## 1. Platform Engineering Fundamentals
