@@ -5,7 +5,7 @@
 ## 1. Platform Engineering Fundamentals
 
 To understand platform engineering, you first need to understand the problem that created the need for it, because the discipline emerged directly from a specific pain point that organizations hit as they scaled their engineering teams. 
-
+ 
 In the early days of DevOps, the solution to the problem of siloed development and operations teams was "you build it, you run it." Every engineering team became responsible for their own infrastructure, their own CI/CD pipelines, their own deployments, their own monitoring, their own security compliance. This was a huge improvement over the old model where developers threw code over a wall to operations and washed their hands of production concerns.
 
 But as organizations scaled to dozens, hundreds, or thousands of engineers, a new problem emerged. Every team was solving the same infrastructure problems independently. Team A built a CI/CD pipeline for their service. Team B built a slightly different CI/CD pipeline for their service. Team C built yet another variation. Each team made different technology choices, different security configurations, different monitoring setups. The cumulative cognitive overhead was enormous — every engineer had to understand not just their domain problem but a huge surface area of infrastructure, cloud, Kubernetes, observability, security, and compliance tooling.
