@@ -17,7 +17,7 @@ Platform engineering is the discipline of building and operating internal platfo
 The mental model shift is critical: platform engineers are building a product, not providing a service. A service model means developers submit tickets and platform engineers fulfill requests. A product model means platform engineers build capabilities — golden paths, self-service portals, automated pipelines, standard templates — that developers use independently without involving the platform team for every individual request.
 
 The core value proposition of platform engineering is leverage. One platform engineer building a capability that saves each of 100 development engineers 2 hours per week creates 200 engineer-hours of value per week from a single engineer's investment. The platform team's output is multiplied across the entire engineering organization.
-
+ 
 For ML organizations specifically, this matters enormously. ML engineers, data scientists, and MLOps engineers have highly specialized skills. Time they spend wrestling with Kubernetes configurations, debugging CI/CD pipelines, or implementing monitoring from scratch is time not spent on model development, feature engineering, and improving prediction quality. A platform that handles the infrastructure layer well — making it trivially easy to deploy a model serving endpoint, set up experiment tracking, or provision a training cluster — directly accelerates ML delivery.
 
 ---
